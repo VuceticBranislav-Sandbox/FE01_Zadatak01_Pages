@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FE01_Zadatak01_Pages/static/css/main.faf646fc.chunk.css",
+    "main.js": "/FE01_Zadatak01_Pages/static/js/main.ec1149f2.chunk.js",
+    "main.js.map": "/FE01_Zadatak01_Pages/static/js/main.ec1149f2.chunk.js.map",
+    "runtime-main.js": "/FE01_Zadatak01_Pages/static/js/runtime-main.983925a2.js",
+    "runtime-main.js.map": "/FE01_Zadatak01_Pages/static/js/runtime-main.983925a2.js.map",
+    "static/js/2.3f1fd02c.chunk.js": "/FE01_Zadatak01_Pages/static/js/2.3f1fd02c.chunk.js",
+    "static/js/2.3f1fd02c.chunk.js.map": "/FE01_Zadatak01_Pages/static/js/2.3f1fd02c.chunk.js.map",
+    "static/js/3.6a9270cc.chunk.js": "/FE01_Zadatak01_Pages/static/js/3.6a9270cc.chunk.js",
+    "static/js/3.6a9270cc.chunk.js.map": "/FE01_Zadatak01_Pages/static/js/3.6a9270cc.chunk.js.map",
+    "index.html": "/FE01_Zadatak01_Pages/index.html",
+    "static/css/main.faf646fc.chunk.css.map": "/FE01_Zadatak01_Pages/static/css/main.faf646fc.chunk.css.map",
+    "static/js/2.3f1fd02c.chunk.js.LICENSE.txt": "/FE01_Zadatak01_Pages/static/js/2.3f1fd02c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983925a2.js",
+    "static/js/2.3f1fd02c.chunk.js",
+    "static/css/main.faf646fc.chunk.css",
+    "static/js/main.ec1149f2.chunk.js"
+  ]
+}
